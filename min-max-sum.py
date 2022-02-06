@@ -10,3 +10,4 @@ for i in range(0, len(a)):
 
 s = sum(a)
 print(str(s - max(a) + " " + str(s - min(a))))
+//
